@@ -1,7 +1,7 @@
 import openai
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = "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"
 
 def chat_with_chatgpt():
     print("ChatGPT: Hi! I'm your chatbot. Type 'exit' to end the chat.\n")
